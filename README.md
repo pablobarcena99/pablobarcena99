@@ -11,12 +11,12 @@ I'm **Pablo Barcena**, a full stack developer passionate about building web appl
 
 ## 🎸 Fun Fact
 
-When I'm not coding, you can find me in my cave, making new music. I embrace the experimental and unconventional, exploring unique soundscapes and pushing the boundaries of music.
+When I'm not coding, you can find me in my cave, making new music. 
 
 ## 🌟 Connect with Me
 
-- GitHub: [YourGitHubUsername](https://github.com/pablobarcena99)
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/pablobarcena99)
+- GitHub: (https://github.com/pablobarcena99)
+- LinkedIn: (https://linkedin.com/in/pablobarcena99)
 - Personal Website: [YourWebsite](https://portfolio-seven-nu-17.vercel.app/)
 
 Embrace the rawness and challenge the norms. Let's create something brutally unique!
